@@ -59,7 +59,7 @@ This project performs customer segmentation using the **Online Retail dataset** 
 
 - **Python** (Jupyter Notebook)
 - **Pandas**, **NumPy** – Data manipulation
-- **Matplotlib**, **Seaborn** – Visualizations
+- **Matplotlib**, **Seaborn**, **Plotly** – Visualizations
 - **Scikit-learn** – Clustering models
 
 ---
