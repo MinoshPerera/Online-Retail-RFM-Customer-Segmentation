@@ -1,5 +1,14 @@
 # 🛍️ Online Retail Customer Segmentation using RFM and Clustering
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
+![Dataset](https://img.shields.io/badge/Dataset-UCI%20Online%20Retail-orange)
+![RFM](https://img.shields.io/badge/Methodology-RFM%20%2B%20Clustering-purple)
+![KMeans](https://img.shields.io/badge/Clustering-KMeans-blueviolet)
+![Visualization](https://img.shields.io/badge/Visualized%20With-Seaborn%20%7C%20Matplotlib%20%7C%20Plotly-ff69b4)
+
 This project performs customer segmentation using the **Online Retail dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail). We apply **RFM (Recency, Frequency, Monetary)** analysis and **KMeans clustering** to uncover distinct customer segments, enabling personalized marketing strategies and better customer retention.
 
 ---
